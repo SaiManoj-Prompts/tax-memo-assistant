@@ -2,7 +2,7 @@
 
 A reusable Claude Skill that turns client-supplied tax facts into a structured, six-section first-draft tax research memo — built, guardrailed, and QA-tested end to end.
 
-**[View the live case study](#)** ← replace with your GitHub Pages URL after deployment
+**[tax-memo-assistant.netlify.app](#)** 
 
 ---
 
